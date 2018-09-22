@@ -296,6 +296,8 @@
     <rdfs:label xml:lang="en-US">upc</rdfs:label>
     <rdfs:label xml:lang="en-US">universal product code</rdfs:label>
     <rdfs:comment xml:lang="en-US">[DEPRECATED] Universal Product Code for your object.</rdfs:comment>
-    <rdfs:seeAlso rdf:resource="http://purl.org/goodrelations/v1#hasEAN_UCC-13" />
+    <rdfs:seeAlso rdf:resource="http://purl.org/goodrelations/v1#hasEAN_UCC-13" />_
   </rdf:Property>
-</rdf:RDF>
+</  rdf:  RDF  >
+>open_graph_protocol
+>https://ogp.me/ns#indonesia
